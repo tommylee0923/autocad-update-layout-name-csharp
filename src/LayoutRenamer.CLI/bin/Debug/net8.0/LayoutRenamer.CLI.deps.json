@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LayoutRenamer.CLI/1.0.0": {
+        "dependencies": {
+          "LayoutRenamer.Core": "1.0.0"
+        },
+        "runtime": {
+          "LayoutRenamer.CLI.dll": {}
+        }
+      },
+      "LayoutRenamer.Core/1.0.0": {
+        "runtime": {
+          "LayoutRenamer.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LayoutRenamer.CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LayoutRenamer.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
