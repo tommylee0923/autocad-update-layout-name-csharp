@@ -1,7 +1,9 @@
 ﻿using LayoutRenamer.Core.Naming;
 
-string? sheet = "A-101";
-var titles = new[] { "Floor Plan", "Level 1" };
+Console.WriteLine("Testing Sanitizers:");
 
-string layoutName = NameBuilder.Build(sheet, titles);
-Console.WriteLine($"Result: {layoutName}");
+string input = @"A:101 / Floor?Plan  Level 1";
+string result = Sanitizer.StripIllegalChars(input);
+
+Console.WriteLine($"Input : {input}");
+Console.WriteLine($"Output: {result}");
