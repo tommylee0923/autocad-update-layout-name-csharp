@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{87854BAD-BD17-467E-B5C5-EF459C244840}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7B7EEA24-1429-4D82-B766-8BC2B065B1AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutRenamer.Core", "src\LayoutRenamer.Core\LayoutRenamer.Core.csproj", "{A40FA729-0851-4516-9F8C-E779D2E53560}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutRenamer.Core", "src\LayoutRenamer.Core\LayoutRenamer.Core.csproj", "{C15FF450-6DBB-4036-9483-637921691CA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutRenamer.CLI", "src\LayoutRenamer.CLI\LayoutRenamer.CLI.csproj", "{D470E271-323F-46A6-95AF-4A4A53FF6537}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutRenamer.CLI", "src\LayoutRenamer.CLI\LayoutRenamer.CLI.csproj", "{96BA7A8B-31EF-478C-BAA4-E669E70BE67B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,17 +18,17 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A40FA729-0851-4516-9F8C-E779D2E53560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A40FA729-0851-4516-9F8C-E779D2E53560}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A40FA729-0851-4516-9F8C-E779D2E53560}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A40FA729-0851-4516-9F8C-E779D2E53560}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D470E271-323F-46A6-95AF-4A4A53FF6537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D470E271-323F-46A6-95AF-4A4A53FF6537}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D470E271-323F-46A6-95AF-4A4A53FF6537}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D470E271-323F-46A6-95AF-4A4A53FF6537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15FF450-6DBB-4036-9483-637921691CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15FF450-6DBB-4036-9483-637921691CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15FF450-6DBB-4036-9483-637921691CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15FF450-6DBB-4036-9483-637921691CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96BA7A8B-31EF-478C-BAA4-E669E70BE67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BA7A8B-31EF-478C-BAA4-E669E70BE67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BA7A8B-31EF-478C-BAA4-E669E70BE67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BA7A8B-31EF-478C-BAA4-E669E70BE67B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{A40FA729-0851-4516-9F8C-E779D2E53560} = {87854BAD-BD17-467E-B5C5-EF459C244840}
-		{D470E271-323F-46A6-95AF-4A4A53FF6537} = {87854BAD-BD17-467E-B5C5-EF459C244840}
+		{C15FF450-6DBB-4036-9483-637921691CA7} = {7B7EEA24-1429-4D82-B766-8BC2B065B1AA}
+		{96BA7A8B-31EF-478C-BAA4-E669E70BE67B} = {7B7EEA24-1429-4D82-B766-8BC2B065B1AA}
 	EndGlobalSection
 EndGlobal

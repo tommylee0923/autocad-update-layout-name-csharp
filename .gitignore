@@ -1,0 +1,21 @@
+# Build outputs
+bin/
+obj/
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.user
+*.suo
+*.vs
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Configs you don't want public
+config/blockAttributes.json
+
+# Logs or temp files
+*.log
+*.tmp

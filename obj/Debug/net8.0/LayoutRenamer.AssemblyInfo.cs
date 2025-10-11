@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LayoutRenamer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06e5a443b2647d2a2c6493d585f39484dbd67fdb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38047d5a3d775fbad729942d231759108f892d2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LayoutRenamer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LayoutRenamer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
