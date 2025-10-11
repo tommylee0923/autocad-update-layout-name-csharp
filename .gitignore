@@ -1,21 +1,32 @@
 # Build outputs
-bin/
-obj/
+###################
+**/bin/
+**/obj/
 
-# IDE/Editor settings
-.vscode/
-.idea/
-*.user
-*.suo
-*.vs
-
-# OS junk
+# OS generated files #
+######################
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
 
-# Configs you don't want public
+# Private files
+###################
 config/blockAttributes.json
 
 # Logs or temp files
+###################
 *.log
 *.tmp
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
