@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tommylee/Documents/Personal Projects/AutoCAD/layout-renamer-csharp/LayoutRenamer/src/LayoutRenamer.Core/LayoutRenamer.Core.csproj": {}
+    "C:\\Users\\tommy\\Documents\\AutoCAD\\autocad-update-layout-name-csharp\\src\\LayoutRenamer.Core\\LayoutRenamer.Core.csproj": {}
   },
   "projects": {
-    "/Users/tommylee/Documents/Personal Projects/AutoCAD/layout-renamer-csharp/LayoutRenamer/src/LayoutRenamer.Core/LayoutRenamer.Core.csproj": {
+    "C:\\Users\\tommy\\Documents\\AutoCAD\\autocad-update-layout-name-csharp\\src\\LayoutRenamer.Core\\LayoutRenamer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tommylee/Documents/Personal Projects/AutoCAD/layout-renamer-csharp/LayoutRenamer/src/LayoutRenamer.Core/LayoutRenamer.Core.csproj",
+        "projectUniqueName": "C:\\Users\\tommy\\Documents\\AutoCAD\\autocad-update-layout-name-csharp\\src\\LayoutRenamer.Core\\LayoutRenamer.Core.csproj",
         "projectName": "LayoutRenamer.Core",
-        "projectPath": "/Users/tommylee/Documents/Personal Projects/AutoCAD/layout-renamer-csharp/LayoutRenamer/src/LayoutRenamer.Core/LayoutRenamer.Core.csproj",
-        "packagesPath": "/Users/tommylee/.nuget/packages/",
-        "outputPath": "/Users/tommylee/Documents/Personal Projects/AutoCAD/layout-renamer-csharp/LayoutRenamer/src/LayoutRenamer.Core/obj/",
+        "projectPath": "C:\\Users\\tommy\\Documents\\AutoCAD\\autocad-update-layout-name-csharp\\src\\LayoutRenamer.Core\\LayoutRenamer.Core.csproj",
+        "packagesPath": "C:\\Users\\tommy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tommy\\Documents\\AutoCAD\\autocad-update-layout-name-csharp\\src\\LayoutRenamer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/tommylee/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\tommy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

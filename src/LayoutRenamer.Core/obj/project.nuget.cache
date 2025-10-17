@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h+5+51+xJJs=",
+  "dgSpecHash": "P814nFldgqc=",
   "success": true,
-  "projectFilePath": "/Users/tommylee/Documents/Personal Projects/AutoCAD/layout-renamer-csharp/LayoutRenamer/src/LayoutRenamer.Core/LayoutRenamer.Core.csproj",
+  "projectFilePath": "C:\\Users\\tommy\\Documents\\AutoCAD\\autocad-update-layout-name-csharp\\src\\LayoutRenamer.Core\\LayoutRenamer.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
