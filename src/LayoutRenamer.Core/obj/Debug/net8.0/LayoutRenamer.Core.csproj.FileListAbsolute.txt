@@ -10,15 +10,15 @@
 /Users/tommylee/Documents/Personal Projects/AutoCAD/layout-renamer-csharp/LayoutRenamer/src/LayoutRenamer.Core/obj/Debug/net8.0/refint/LayoutRenamer.Core.dll
 /Users/tommylee/Documents/Personal Projects/AutoCAD/layout-renamer-csharp/LayoutRenamer/src/LayoutRenamer.Core/obj/Debug/net8.0/LayoutRenamer.Core.pdb
 /Users/tommylee/Documents/Personal Projects/AutoCAD/layout-renamer-csharp/LayoutRenamer/src/LayoutRenamer.Core/obj/Debug/net8.0/ref/LayoutRenamer.Core.dll
-C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\bin\Debug\net8.0\LayoutRenamer.Core.deps.json
-C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\bin\Debug\net8.0\LayoutRenamer.Core.dll
-C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\bin\Debug\net8.0\LayoutRenamer.Core.pdb
-C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\Debug\net8.0\LayoutRenamer.Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\Debug\net8.0\LayoutRenamer.Core.AssemblyInfoInputs.cache
-C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\Debug\net8.0\LayoutRenamer.Core.AssemblyInfo.cs
-C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\Debug\net8.0\LayoutRenamer.Core.csproj.CoreCompileInputs.cache
-C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\Debug\net8.0\LayoutRenamer.Core.sourcelink.json
-C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\Debug\net8.0\LayoutRenamer.Core.dll
-C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\Debug\net8.0\refint\LayoutRenamer.Core.dll
-C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\Debug\net8.0\LayoutRenamer.Core.pdb
-C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\Debug\net8.0\ref\LayoutRenamer.Core.dll
+C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\bin\debug\net8.0\LayoutRenamer.Core.deps.json
+C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\bin\debug\net8.0\LayoutRenamer.Core.dll
+C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\bin\debug\net8.0\LayoutRenamer.Core.pdb
+C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\debug\net8.0\LayoutRenamer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\debug\net8.0\LayoutRenamer.Core.AssemblyInfoInputs.cache
+C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\debug\net8.0\LayoutRenamer.Core.AssemblyInfo.cs
+C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\debug\net8.0\LayoutRenamer.Core.csproj.CoreCompileInputs.cache
+C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\debug\net8.0\LayoutRenamer.Core.sourcelink.json
+C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\debug\net8.0\LayoutRenamer.Core.dll
+C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\debug\net8.0\refint\LayoutRenamer.Core.dll
+C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\debug\net8.0\LayoutRenamer.Core.pdb
+C:\Users\tommy\Documents\AutoCAD\autocad-update-layout-name-csharp\src\LayoutRenamer.Core\obj\debug\net8.0\ref\LayoutRenamer.Core.dll

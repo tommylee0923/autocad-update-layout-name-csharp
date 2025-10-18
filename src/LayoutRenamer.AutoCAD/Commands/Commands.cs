@@ -1,7 +1,5 @@
-using System.ComponentModel;
-using System.Reflection.Metadata;
-using Autodesk.AutoCAD.ApplicationServices;
-using Autodesk.AutoCAD.EditorInput;
+using AcAp = Autodesk.AutoCAD.ApplicationServices;
+using AcEd = Autodesk.AutoCAD.EditorInput;
 using Autodesk.AutoCAD.Runtime;
 
 [assembly: CommandClass(typeof(LayoutRenamer.AutoCAD.Commands))]
@@ -13,8 +11,8 @@ namespace LayoutRenamer.AutoCAD
         [CommandMethod("UpdateLayouts")]
         public void UpdateLayouts()
         {
-            Document doc = Application.DocumentManager.MdiActiveDocument;
-            EditorAttribute ed = doc.editor;
+            AcAp.Document doc = AcAp.Application.DocumentManager.MdiActiveDocument;
+            AcEd.Editor ed = doc.Editor;
             ed.WriteMessage("\nHello from LayoutRenamer (.NET 8)!");
 
             // TODO: Call Core methods
